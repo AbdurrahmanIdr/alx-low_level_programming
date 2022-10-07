@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+chmod +x $fil
+git add .
+git commit -m '$fil'
+git push
